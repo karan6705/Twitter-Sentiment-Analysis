@@ -1,4 +1,3 @@
-# Twitter-Sentiment-Analysis
 # Twitter Sentiment Analysis Capstone
 
 A reproducible end-to-end pipeline for classifying tweet sentiment using Logistic Regression and bag-of-words features.
@@ -50,11 +49,6 @@ The project uses a CSV file with 31,962 labeled tweets.
 * **F1 Score:** 0.56
 * **ROC AUC:** 0.72
 
-![Confusion Matrix](figs/confusion_matrix.png)
-
-![ROC Curve](figs/roc_curve.png)
-
-![Precision-Recall Curve](figs/pr_curve.png)
 
 ## Usage
 
@@ -66,14 +60,4 @@ from sentiment import predict_sentiment
 print(predict_sentiment("I love this product!"))   # Positive
 print(predict_sentiment("Worst experience ever.")) # Negative
 ```
-
-## Conclusion & Next Steps
-
-This notebook demonstrates a complete machine learning workflow from raw tweets to deployed inference. To further improve:
-
-* **Embed Contextual Features:** Experiment with transformer-based embeddings (e.g., BERT) for richer text representations.
-* **Model Ensembles:** Combine logistic regression with Naive Bayes or tree-based models.
-* **Deployment:** Wrap inference in a Flask or FastAPI app and containerize with Docker.
-* **Real-Time Streaming:** Integrate with Twitter’s Streaming API for live sentiment tracking.
-* **Aspect-Based Sentiment:** Extend the model to detect sentiment toward specific topics or entities.
 
