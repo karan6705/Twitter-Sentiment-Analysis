@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter Logo" />
+  <img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" alt="X Logo" width="96" height="96" />
 </p>
 
 <h1 align="center">🐦 Twitter Sentiment Analysis Capstone</h1>
