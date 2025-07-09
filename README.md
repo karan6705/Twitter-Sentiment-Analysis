@@ -4,10 +4,8 @@
 
 <h1 align="center">🐦 Twitter Sentiment Analysis Capstone</h1>
 
-<p align="center">
-  [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)  
-  [![License MIT](https://img.shields.io/badge/License-MIT-1DA1F2?style=for-the-badge)](LICENSE)
-</p>
+[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)  
+
 
 ---
 
