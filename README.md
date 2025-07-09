@@ -1,5 +1,5 @@
 <p align="center">
-  ![Twitter Logo](https://img.icons8.com/color/96/000000/twitter.png)
+  <img src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter Logo" />
 </p>
 
 <h1 align="center">🐦 Twitter Sentiment Analysis Capstone</h1>
